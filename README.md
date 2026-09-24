@@ -22,3 +22,20 @@ I'm currently focused on:
 - ASP.NET Core Identity
 - JWT Authentication
 - Git & GitHub
+### 🚀 Featured Project
+
+#### Craftly — E-Commerce Backend API
+
+A backend e-commerce system built with ASP.NET Core and .NET 8.
+
+**Highlights:**
+- Clean Architecture
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+- Shopping Cart & Orders
+- Inventory Reservation
+- Concurrency-safe stock handling
+- Payment workflow
+
+[View Project →](https://github.com/mahmoud-147-dev/Craftly)
