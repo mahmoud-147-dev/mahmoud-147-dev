@@ -12,3 +12,13 @@ I'm currently focused on:
 - Authentication & Authorization
 - Database design
 - System Design
+- ### 🛠️ Tech Stack
+
+- C#
+- .NET 8
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- ASP.NET Core Identity
+- JWT Authentication
+- Git & GitHub
