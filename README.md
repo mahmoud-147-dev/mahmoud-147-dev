@@ -39,3 +39,8 @@ A backend e-commerce system built with ASP.NET Core and .NET 8.
 - Payment workflow
 
 [View Project →](https://github.com/mahmoud-147-dev/Craftly)
+
+### 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-b663a931a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [GitHub](https://github.com/mahmoud-147-dev)
